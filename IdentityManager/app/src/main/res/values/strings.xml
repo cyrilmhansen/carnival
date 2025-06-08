@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Identity Manager</string>
+
+    <!-- Strings for activity_add_identity.xml -->
+    <string name="hint_nickname">Nickname</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_notes">Notes (Optional)</string>
+    <string name="button_save_identity">Save Identity</string>
+    <string name="activity_label_add_identity">Add New Identity</string>
+
+    <!-- Content Description for FAB -->
+    <string name="fab_description_add_identity">Add Identity</string>
+
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_description">Identity Manager Accessibility Service for form filling.</string>
+    <string name="accessibility_service_label">Identity Manager Service</string>
+    <string name="enable_accessibility_service">Enable Identity Manager Service</string>
+    <string name="accessibility_service_enabled">Identity Manager Service is Enabled</string>
+</resources>
